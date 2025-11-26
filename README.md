@@ -5,6 +5,8 @@ Achieving 60 frames per second is no longer the benchmark for mobile apps. Users
 
 This guide breaks down exactly how to build silky smooth animations. We cover everything from core ideas to advanced optimization. You'll also learn how to fix the common errors that can stop your progress.
 
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis9G5_mvYUyxbGHWU-idpmrAcv0WD9hBu_zSpGYhNoKjLfEIB4KDrRX3d-2z29CV0blwhmlfToCzWnbArRIeSqDO0oSJv9Mv4jxtmG_XhLCUVj-JS02TR7DAVIZoZ5NfwgTeA_twzE5hQUxAE_2N1Lv0JZEQqPc_yyEWKjbWVf1x4A011kX7S6xzpygiKP/w640-h358/React%20Native%20Reanimated.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis9G5_mvYUyxbGHWU-idpmrAcv0WD9hBu_zSpGYhNoKjLfEIB4KDrRX3d-2z29CV0blwhmlfToCzWnbArRIeSqDO0oSJv9Mv4jxtmG_XhLCUVj-JS02TR7DAVIZoZ5NfwgTeA_twzE5hQUxAE_2N1Lv0JZEQqPc_yyEWKjbWVf1x4A011kX7S6xzpygiKP/s1600/React%20Native%20Reanimated.jpg)
+
 Why Reanimated is Still the Top Choice for Animations in 2026
 -------------------------------------------------------------
 
@@ -137,8 +139,6 @@ Going Beyond Basics: Advanced Reanimated Features
 
 Reanimated offers a deep set of features. Here are some you should be using to build next-generation UIs.
 
-![Tweet from an expert about Reanimated's future](https://pbs.twimg.com/media/GMs700oXoAAhG0C?format=jpg&name=medium)
-
 ### Complex Gestures and Interactions
 
 When used with `react-native-gesture-handler`, Reanimated lets you create fluid, interruptible gestures. Drag and drop, pinch to zoom, and swipe actions run on the UI thread, giving users instant feedback with zero latency.
@@ -186,7 +186,6 @@ A common mistake is animating properties that can't be animated natively, like `
 
 Never use a component's props directly inside a worklet from `useAnimatedStyle`. The worklet runs on a different thread and can't access React state. If a prop changes, use `useEffect` to update a Shared Value instead.
 
-![Tweet from an expert about debugging Reanimated](https://pbs.twimg.com/media/GMo0WjIXEAABK33?format=jpg&name=medium)
 
 ### A Troubleshooting Checklist for 2026
 
@@ -208,7 +207,7 @@ The world of React Native changes quickly. Staying current is important for succ
 
 ### Official Documentation and Community
 
-The [Software Mansion Reanimated Documentation](https://docs.swmansion.com/react-native-reanimated/) is the single source of truth. It is well maintained and full of examples. The official Software Mansion Discord also has a dedicated channel for getting help from the community and library maintainers.
+The Software Mansion Reanimated Documentation is the single source of truth. It is well maintained and full of examples. The official Software Mansion Discord also has a dedicated channel for getting help from the community and library maintainers.
 
 ### What's Next for Reanimated?
 
