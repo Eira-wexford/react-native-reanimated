@@ -5,7 +5,9 @@ Achieving 60 frames per second is no longer the benchmark for mobile apps. Users
 
 This guide breaks down exactly how to build silky smooth animations. We cover everything from core ideas to advanced optimization. You'll also learn how to fix the common errors that can stop your progress.
 
+<div style="text-align: center;">
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis9G5_mvYUyxbGHWU-idpmrAcv0WD9hBu_zSpGYhNoKjLfEIB4KDrRX3d-2z29CV0blwhmlfToCzWnbArRIeSqDO0oSJv9Mv4jxtmG_XhLCUVj-JS02TR7DAVIZoZ5NfwgTeA_twzE5hQUxAE_2N1Lv0JZEQqPc_yyEWKjbWVf1x4A011kX7S6xzpygiKP/w640-h358/React%20Native%20Reanimated.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis9G5_mvYUyxbGHWU-idpmrAcv0WD9hBu_zSpGYhNoKjLfEIB4KDrRX3d-2z29CV0blwhmlfToCzWnbArRIeSqDO0oSJv9Mv4jxtmG_XhLCUVj-JS02TR7DAVIZoZ5NfwgTeA_twzE5hQUxAE_2N1Lv0JZEQqPc_yyEWKjbWVf1x4A011kX7S6xzpygiKP/s1600/React%20Native%20Reanimated.jpg)
+</div>
 
 Why Reanimated is Still the Top Choice for Animations in 2026
 -------------------------------------------------------------
